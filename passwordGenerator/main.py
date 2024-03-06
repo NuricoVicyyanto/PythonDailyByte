@@ -29,5 +29,3 @@ elif option == 3:
 
 else:
     print("Operation invalid")
-
-
